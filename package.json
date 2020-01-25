@@ -1,10 +1,9 @@
 {
   "name": "typescript-webapp-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Starter for vanilla typescript webapp.",
   "main": "app.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "typescript": "^3.7.5"
   },

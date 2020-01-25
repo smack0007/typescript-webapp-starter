@@ -10,8 +10,8 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Restore
-      run: restore.cmd
+      run: restore
     - name: Build
-      run: build.cmd
+      run: build
     - name: Test
-      run: test.cmd
+      run: test
